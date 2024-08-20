@@ -16,6 +16,7 @@
 		E39473502C750AF000EFFA07 /* APODResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = E394734F2C750AF000EFFA07 /* APODResponse.swift */; };
 		E39473522C750AFD00EFFA07 /* APODViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E39473512C750AFD00EFFA07 /* APODViewModel.swift */; };
 		E39473542C750B0A00EFFA07 /* APODView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E39473532C750B0A00EFFA07 /* APODView.swift */; };
+		E39473582C751FB200EFFA07 /* NetworkReachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = E39473572C751FB200EFFA07 /* NetworkReachability.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E394734F2C750AF000EFFA07 /* APODResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APODResponse.swift; sourceTree = "<group>"; };
 		E39473512C750AFD00EFFA07 /* APODViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APODViewModel.swift; sourceTree = "<group>"; };
 		E39473532C750B0A00EFFA07 /* APODView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APODView.swift; sourceTree = "<group>"; };
+		E39473572C751FB200EFFA07 /* NetworkReachability.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkReachability.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				E377C4EB2C750A6B0076C9F2 /* Assets.xcassets */,
 				E377C4ED2C750A6B0076C9F2 /* AstronomyAPOD.entitlements */,
 				E377C4EE2C750A6B0076C9F2 /* Preview Content */,
+				E39473572C751FB200EFFA07 /* NetworkReachability.swift */,
 			);
 			path = AstronomyAPOD;
 			sourceTree = "<group>";
@@ -293,6 +296,7 @@
 				E377C4E82C750A680076C9F2 /* AstronomyAPODApp.swift in Sources */,
 				E39473522C750AFD00EFFA07 /* APODViewModel.swift in Sources */,
 				E39473502C750AF000EFFA07 /* APODResponse.swift in Sources */,
+				E39473582C751FB200EFFA07 /* NetworkReachability.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
